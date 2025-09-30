@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Collaborative-AI-Powered-Ideation/static/css/main.161582ed.css",
+    "main.js": "/Collaborative-AI-Powered-Ideation/static/js/main.54217a10.js",
+    "index.html": "/Collaborative-AI-Powered-Ideation/index.html",
+    "main.161582ed.css.map": "/Collaborative-AI-Powered-Ideation/static/css/main.161582ed.css.map",
+    "main.54217a10.js.map": "/Collaborative-AI-Powered-Ideation/static/js/main.54217a10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.161582ed.css",
+    "static/js/main.54217a10.js"
+  ]
+}
