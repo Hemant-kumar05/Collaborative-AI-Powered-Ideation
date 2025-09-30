@@ -50,3 +50,4 @@ JWT_SECRET=your_jwt_secret
 
 ## License
 MIT
+# Collaborative-AI-Powered-Ideation  
